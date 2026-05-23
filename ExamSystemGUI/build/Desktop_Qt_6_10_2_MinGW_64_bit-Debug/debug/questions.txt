@@ -1,0 +1,21 @@
+1
+Which of the following is an input device?
+printer
+Keyboard
+Monitor
+Speaer
+B
+2
+What is c++?
+os
+language
+database
+IDE
+B
+3
+The operating system is a type of:
+Application software
+System software
+Game
+Hardware
+B
